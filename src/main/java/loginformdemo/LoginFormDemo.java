@@ -6,7 +6,7 @@ import java.awt.*;
 import java.awt.event.*;  
 import java.lang.Exception;  
   
-//create CreateLoginForm class to create login form  
+//create CreateLoginForm class to create login formsss  
 //class extends JFrame to create a window where our component add  
 //class implements ActionListener to perform an action on button click  
 class CreateLoginForm extends JFrame implements ActionListener  
