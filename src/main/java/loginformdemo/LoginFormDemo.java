@@ -18,7 +18,7 @@ class CreateLoginForm extends JFrame implements ActionListener
     final JTextField  textField1, textField2;  
       
     //calling constructor  
-    CreateLoginForm()  
+    CreateLoginFormss()  
     {     
           
         //create label for username   
